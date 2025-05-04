@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Mahad Naqvi 👋
 
-<!--
-**Mahad5110/Mahad5110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a **Web Developer** with expertise in **HTML**, **CSS**, and **JavaScript**. Currently, I am a **BS Computer Science** student at **SZABIST University**. My passion lies in creating responsive and interactive websites, and I am continuously learning and improving my skills to stay up-to-date with the latest web technologies.
 
-Here are some ideas to get you started:
+- 🌱 Currently, I am diving deeper into web development frameworks like **React** and **Node.js**.
+- 📚 I'm currently studying **Computer Science** and exploring different aspects of web technologies, algorithms, and data structures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Web Development**: HTML, CSS, JavaScript
+- **Tools & Frameworks**: React, Node.js (learning)
+- **Version Control**: Git, GitHub
+
+## Education
+- **Bachelor of Science in Computer Science** at **SZABIST University**
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [GitHub](https://github.com/mahadnaqvi)
+
+## Fun Fact
+I love experimenting with new web design ideas and optimizing user experience. When I'm not coding, you can find me exploring tech blogs or working on personal projects!
+
+---
+
+Thanks for checking out my profile! 🚀
